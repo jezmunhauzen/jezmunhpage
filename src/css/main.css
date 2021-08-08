@@ -1,5 +1,7 @@
 body {
-    background: url(https://tvidireborn.net/src/img/stock.png) no-repeat;    
+    background: url(https://tvidireborn.net/src/img/stock.png) no-repeat;
+    width: 95%;
+    height: 100%;
     margin: 0;
     padding: 0;    
     background-size: auto; /* Фон занимает всю доступную площадь */
@@ -14,8 +16,8 @@ a:hover {
    }
 
 .info-box{
-    width:1920px;
-    height:1080px;
+    width:95%;
+    height:100%;
     /*background-image: url("../img/stock.png");*/
     position: absolute;
     top: -130px;
